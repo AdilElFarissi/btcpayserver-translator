@@ -169,6 +169,16 @@
       "Sha": "bdf2a884d3920bc86804176e3a4ee5a102ec126096319180f141d2d87712f018",
       "Maintainer": null,
       "Updated": "2026-06-15T10:36:23Z"
+    },
+    {
+      "Code": "ar",
+      "Bcp47": "ar",
+      "Name": "Arabic",
+      "Native": "العربية",
+      "File": "translations/arabic.json",
+      "Sha": "509d115150c69d7aab6591314bf74f608100c8fe303f6eb0721f33200adfb0f1",
+      "Maintainer": "AdilElFarissi|https://github.com/AdilElFarissi",
+      "Updated": "2026-06-21T22:00:00Z"
     }
   ],
   "Redirect": null
